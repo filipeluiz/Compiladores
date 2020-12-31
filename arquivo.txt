@@ -1,0 +1,17 @@
+int main (){
+	float a, b, d;
+	int x, c;
+
+	while(a!=.1){
+		while(c==1){
+			while(d>=4){
+				x = 0;
+			}
+			c = 5;
+		}
+	}
+}
+
+
+
+
