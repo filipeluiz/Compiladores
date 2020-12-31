@@ -1,6 +1,6 @@
-#Projeto: Desenvolvimento de um Compilador
+# Projeto: Desenvolvimento de um Compilador
 
-##Parte I: Analisador Léxico (SCANNER)
+## Parte I: Analisador Léxico (SCANNER)
 
 Sílvio Bandeira
 Professor Adjunto
@@ -169,7 +169,7 @@ Como em toda lista encadeada, precisamos de um nó que aponta para a "cabeça" d
 
 
 
-##Parte III: Analisador Semântico
+## Parte III: Analisador Semântico
 
 1. Introdução
 
@@ -197,7 +197,7 @@ A tabela de símbolos deve ser utilizada para pesquisa da existência da variáv
 
 
 
-##Parte IV: Gerador de Código Intermediário
+## Parte IV: Gerador de Código Intermediário
 
 1. Introdução
 
